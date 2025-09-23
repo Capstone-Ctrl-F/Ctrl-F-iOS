@@ -36,6 +36,7 @@ struct ContentView: View {
             }
         } detail: {
             Text("Select an item")
+                .font(.custom("Pretendard-SemiBold", size: 16))
         }
     }
 
