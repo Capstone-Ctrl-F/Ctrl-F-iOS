@@ -6,3 +6,6 @@
 //
 
 import Foundation
+@Observable
+class AuthenticationViewModel {
+}
